@@ -16,7 +16,7 @@ This project was created for speech to text conversion. This has several potenti
 ### Instructions
 * To run this project, download the ZIP file and run the Python script in the console.
 ```
-cd ~/path    #path to local folder where the python script was dowloaded.
+cd path    #path to local folder where the python script was dowloaded.
 python3 speech-to-text.py
 ```
 * Upon running the script, a prompt will be shown in the console, follow the prompt to begin recording.
