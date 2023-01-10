@@ -1,7 +1,7 @@
 # Speech-to-Text-Converter
 ## This is a Python console application where the user can record a short voice recording and receive a transcript of their recording.
 ### Description
-This project was created for speech to text conversion. This has several potential uses, including securing a written record of verbal speech and increasing accessibility for the hard of of hearing. I created this project to strengthen my Python programming skills, including working with audio recording, playback and speech to text conversion in Python.
+This project was created for speech to text conversion. This has several potential uses, such as securing a written record of verbal speech and increasing accessibility for the hard of hearing. I created this project to strengthen my Python programming skills, including working with audio recordings, audio playback, and speech to text conversion in Python.
 ### Technologies
 * Python
 * Libraries used:
